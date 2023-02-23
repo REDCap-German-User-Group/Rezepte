@@ -5,6 +5,7 @@ Hier sollen nützliche SQL Queries eingestellt werden, die im _Database Query To
 ## Anforderungen an Beiträge
 
 - Kurzer Titel
+- Optional Angaben zur Person, die den Beitrag beigesteuert hat (z.B. Name, ggf. Institution und E-Mail)
 - Beschreibung, was die Abfrage macht und wozu sie gut ist
 - Die Query als Code-Block mit `SQL` als Format-Hint
     > \`\`\`SQL  
