@@ -10,4 +10,4 @@ Siehe Verzeichnis _SQL-Queries_ (bitte [Hinweise](SQL-Queries/README.md) beachte
 - [Email-Liste der Nutzer:innen eines Projektes](SQL-Queries/Userlist.md)
 
 
-Community Thread mit vielen Rezepten: https://redcap.vanderbilt.edu/community/post.php?id=202051
+Community Thread mit vielen Rezepten: https://redcap.vumc.org/community/post.php?id=202051
